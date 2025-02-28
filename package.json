@@ -1,0 +1,14 @@
+{
+	"name": "ccez-vanilla-js",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/christophe77/ccez-vanilla-js",
+	"author": "christophe77 <chrisb@gmx.fr>",
+	"license": "MIT",
+	"keywords": [
+		"chrome",
+		"extension",
+		"react",
+		"javascript"
+	]
+}
