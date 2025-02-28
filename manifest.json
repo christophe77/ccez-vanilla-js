@@ -16,9 +16,10 @@
 	"action": {
 		"default_popup": "popup.html",
 		"default_icon": {
-			"16": "assets/icon.jpg",
-			"48": "assets/icon.jpg",
-			"128": "assets/icon.jpg"
+			"16": "./assets/icons/icon16.jpeg",
+			"32": "./assets/icons/icon32.jpeg",
+			"48": "./assets/icons/icon48.jpeg",
+			"128": "./assets/icons/icon128.jpeg"
 		}
 	}
 }
